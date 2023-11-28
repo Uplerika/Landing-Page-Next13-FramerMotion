@@ -1,6 +1,6 @@
 # Next 13 Landing Page With Framer Motion & Tailwind CSS
 
-## METAUNIVERSE [Перейти на сайт](https://metaverse-next13-uplerika.vercel.app/)
+## METAUNIVERSE [Перейти на сайт](https://landing-page-next13-framer-motion.vercel.app/)
 
 ![App Screenshot](https://raw.githubusercontent.com/Uplerika/Landing-Page-Next13-FramerMotion/main/public/Meta-Next13.gif)
 

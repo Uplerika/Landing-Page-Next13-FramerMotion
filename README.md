@@ -2,7 +2,7 @@
 
 ## METAUNIVERSE [Перейти на сайт](https://metaverse-next13-uplerika.vercel.app/)
 
-![App Screenshot](https://raw.githubusercontent.com/Uplerika/Website-Next13/main/public/Meta-Next13.gif)
+![App Screenshot](https://raw.githubusercontent.com/Uplerika/Landing-Page-Next13-FramerMotion/main/public/Meta-Next13.gif)
 
 ## Функционал
 
